@@ -1629,6 +1629,32 @@
       <size>19289002</size>
     </bin>
   </jdk>
+  <jdk version="6u161-b31">
+   <bin cls="nix_32" arch="linux-i586" ext="bin">
+     <size>72312601</size>
+   </bin>
+   <bin cls="nix_64" arch="linux-x64" ext="bin">
+     <size>72606706</size>
+   </bin>
+  </jdk>
+ 
+  <jdk version="6u151-b32">
+   <bin cls="nix_32" arch="linux-i586" ext="bin">
+     <size>72303276</size>
+   </bin>
+   <bin cls="nix_64" arch="linux-x64" ext="bin">
+     <size>72605229</size>
+   </bin>
+  </jdk>
+
+  <jdk version="6u115-b32">
+    <bin cls="nix_32" arch="linux-i586" ext="bin">
+      <size>72247972</size>
+    </bin>
+    <bin cls="nix_64" arch="linux-x64" ext="bin">
+      <size>72545223</size>
+    </bin>
+  </jdk>
   <jdk version="6u45-b06">
     <bin cls="nix_32" arch="linux-i586" ext="bin">
       <size>71799552</size>
